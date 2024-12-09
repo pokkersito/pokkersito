@@ -5,7 +5,7 @@ I am a first semester systems engineering student and I like web development.
 - ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - 🔭 I’m currently studying:
 	- Web Ap Development 
-- :bulb: I am interested in everything about web development and app development**
+- :bulb: **I am interested in everything about web development and app development**
 
 ## My Skills Include
 
